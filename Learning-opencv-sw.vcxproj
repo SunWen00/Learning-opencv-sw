@@ -19,7 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="ImgCanny.cpp" />
     <ClCompile Include="ImgGaussianBlur.cpp" />
+    <ClCompile Include="ImgPixel.cpp" />
+    <ClCompile Include="ImgpyrDown.cpp" />
+    <ClCompile Include="ReadCamera.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
